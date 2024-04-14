@@ -1,6 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
+
   font-family: Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
 }
 
@@ -15,7 +16,7 @@ a {
 .navclass {
   display: flex;
   gap: 30%;
-  background-color: #023e8a;
+  background-color: #3a81dd;
   padding: 0px 0px 8px 0px;
 }
 
@@ -42,6 +43,7 @@ a {
 .second-navclass li a {
   color: #fff;
 }
+
 .btn button {
   width: 70px;
   height: 30px;
@@ -50,16 +52,18 @@ a {
   font-size: large;
   font-weight: bold;
 }
+
 .btn button:hover {
   background-color: #81b4f7;
 }
+
 .free-logo {
   padding-top: 100px;
   text-align: center;
   font-size: 40px;
   font-weight: bold;
   margin: 0px 350px 0px 350px;
-  color: #023e8a;
+  color: #3a81dd;
 }
 
 .get-free-logo {
@@ -67,6 +71,7 @@ a {
   padding-top: 20px;
   font-size: 20px;
 }
+
 .input-container {
   align-items: center;
   display: flex;
@@ -88,7 +93,7 @@ a {
   height: 56px;
   border-radius: 4px;
   border: none;
-  background-color: #023e8a;
+  background-color: #3a81dd;
   font-size: 15px;
 }
 
@@ -101,11 +106,13 @@ a {
   width: 800px;
   padding: 80px;
 }
+
 .trusted-business-owner {
   margin: 0px 400px 0px 400px;
   text-align: center;
-  color: #023e8a;
+  color: #3a81dd;
 }
+
 .template {
   text-align: center;
   padding-top: 20px;
@@ -127,7 +134,7 @@ a {
   text-align: center;
   padding-top: 40px;
   font-weight: bold;
-  color: #023e8a;
+  color: #3a81dd;
 }
 
 .two-div {
@@ -146,7 +153,7 @@ a {
 
 .our-tools {
   padding: 0px 0px 20px 0px;
-  color: #023e8a;
+  color: #3a81dd;
 }
 
 .logo-pro {
@@ -157,7 +164,7 @@ a {
 .logo-pro button {
   width: 280px;
   height: 40px;
-  background-color: #023e8a;
+  background-color: #3a81dd;
   border: none;
   border-radius: 5px;
 }
@@ -165,6 +172,7 @@ a {
 .million {
   padding: 0px 0px 20px 0px;
 }
+
 .another-two-div {
   display: flex;
   align-items: center;
@@ -181,6 +189,7 @@ a {
   padding: 60px 100px 40px 100px;
   border-bottom: 3px solid rgb(80, 78, 78);
 }
+
 .ready-to-set {
   align-items: center;
 }
@@ -189,7 +198,7 @@ a {
   text-align: center;
   margin: 0px 450px 0px 450px;
   padding-top: 20px;
-  color: #023e8a;
+  color: #3a81dd;
 }
 
 .stich-the-brand {
@@ -213,7 +222,7 @@ a {
   height: 46px;
   border-radius: 5px;
   border: none;
-  background-color: #023e8a;
+  background-color: #3a81dd;
 }
 
 .stich-img img {
@@ -222,8 +231,9 @@ a {
 
 .brand-building {
   padding: 0px 0px 20px 0px;
-  color: #023e8a;
+  color: #3a81dd;
 }
+
 .custom {
   padding: 0px 0px 20px 0px;
 }
@@ -243,7 +253,7 @@ a {
   font-weight: bolder;
   font-size: 1.2rem;
   padding: 0px 0px 20px 0px;
-  color: #023e8a;
+  color: #3a81dda;
 }
 
 .second-5 button {
@@ -254,7 +264,7 @@ a {
   margin: 2px;
   height: 84px;
   width: 1116px;
-  background-color: #023e8a;
+  background-color: #3a81dd;
   color: black;
   margin: 8px;
   border: none;
@@ -267,6 +277,7 @@ a {
   background-color: #ebebeb;
   cursor: pointer;
 }
+
 .unlock {
   text-align: center;
 
@@ -314,6 +325,7 @@ a {
   padding: 0px 0px 30px 0px;
   font-size: large;
 }
+
 .professional-skill {
   width: 400px;
 }
@@ -327,6 +339,7 @@ a {
   padding: 0px 0px 30px 0px;
   font-size: large;
 }
+
 .foot {
   background-color: #ebebeb;
   border-top: 3px solid rgb(80, 78, 78);
@@ -350,6 +363,7 @@ a {
 .box-1 {
   margin: 60px 0px 0px 40px;
 }
+
 .box-2 {
   margin: 60px 0px 0px 0px;
 }
@@ -371,7 +385,7 @@ a {
   justify-content: space-between;
   padding: 20px 20px 0px 20px;
   background-color: #ebebeb;
-  color: #023e8a;
+  color: #3a81dd;
 }
 
 .faq {
